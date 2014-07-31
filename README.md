@@ -10,5 +10,6 @@ howiehu  | Hao Hu | https://github.com/howiehu
 
 ## 学员信息
 
-Username | Full Name | GitHub Link
--------- | --------- | -----------
+Username | Full Name   | GitHub Link
+-------- | ---------   | -----------
+sighWang | Ximing Wang | https://github.com/sighWang
