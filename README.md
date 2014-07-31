@@ -12,4 +12,4 @@ howiehu  | Hao Hu | https://github.com/howiehu
 
 Username | Full Name | GitHub Link
 
-fgcui1204| 崔福罡   | https://github.com/fgcui1204
+fgcui1204| Fugang Cui  | https://github.com/fgcui1204
