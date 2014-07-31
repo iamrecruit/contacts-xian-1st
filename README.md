@@ -11,4 +11,5 @@ howiehu  | Hao Hu | https://github.com/howiehu
 ## 学员信息
 
 Username | Full Name | GitHub Link
--------- | --------- | -----------
+
+SnakeWorker| Kai Su | https://github.com/SnakeWorker
