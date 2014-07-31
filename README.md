@@ -10,12 +10,13 @@ howiehu  | Hao Hu | https://github.com/howiehu
 
 ## 学员信息
 
-Username | Full Name   | GitHub Link
--------- | ---------   | -----------
+Username | Full Name | GitHub Link
+-------- | --------- | -----------
 sighWang | Ximing Wang | https://github.com/sighWang
 sorashiro | Yufei Wang | https://github.com/sorashiro
 lzhangwei | Wei Zhang | https://github.com/lzhangwei
 SnakeWorker | Kai Su | https://github.com/SnakeWorker
 mumuyang1 | Yanzi Li | http://github.com/mumuyang1
-XueQian  | Qian Xue  | https://github.com/XueQian
+XueQian | Qian Xue | https://github.com/XueQian
 adabeauty | Huan Wang | https://github.com/adabeauty
+fgcui1204 | Fugang Cui | https://github.com/fgcui1204
