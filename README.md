@@ -11,5 +11,5 @@ howiehu  | Hao Hu | https://github.com/howiehu
 ## 学员信息
 
 Username | Full Name | GitHub Link
--------- | --------- | ----------- 
-adabeauty| huanwang  | https://github.com/adabeauty
+-------- | --------- | -----------
+adabeauty| Huan Wang | https://github.com/adabeauty
