@@ -12,3 +12,4 @@ howiehu  | Hao Hu | https://github.com/howiehu
 
 Username | Full Name | GitHub Link
 -------- | --------- | -----------
+sorashiro| Yufei Wang| https://github.com/sorashiro
