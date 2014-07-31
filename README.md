@@ -14,4 +14,4 @@ Username | Full Name   | GitHub Link
 -------- | ---------   | -----------
 sighWang | Ximing Wang | https://github.com/sighWang
 sorashiro | Yufei Wang | https://github.com/sorashiro
-zhangwei | Wei Zhang | https://github.com/lzhangwei
+lzhangwei | Wei Zhang | https://github.com/lzhangwei
