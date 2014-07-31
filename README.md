@@ -12,4 +12,4 @@ howiehu  | Hao Hu | https://github.com/howiehu
 
 Username | Full Name   | GitHub Link
 -------- | ---------   | -----------
-sighWang | Wang ximing | https://github.com/sighWang
+sighWang | Ximing Wang | https://github.com/sighWang
