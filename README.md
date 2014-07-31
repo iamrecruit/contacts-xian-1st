@@ -12,4 +12,4 @@ howiehu  | Hao Hu | https://github.com/howiehu
 
 Username | Full Name | GitHub Link
 -------- | --------- | -----------
-lzhangwei| Wei Zhang | https://github.com/lzhangwei
+zhangwei | Wei Zhang | https://github.com/lzhangwei
