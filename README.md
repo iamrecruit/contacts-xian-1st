@@ -11,4 +11,5 @@ howiehu  | Hao Hu | https://github.com/howiehu
 ## 学员信息
 
 Username | Full Name | GitHub Link
--------- | --------- | -----------
+
+fgcui1204| 崔福罡   | https://github.com/fgcui1204
