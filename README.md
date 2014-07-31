@@ -13,3 +13,4 @@ howiehu  | Hao Hu | https://github.com/howiehu
 Username | Full Name   | GitHub Link
 -------- | ---------   | -----------
 sighWang | Ximing Wang | https://github.com/sighWang
+sorashiro| Yufei Wang | https://github.com/sorashiro
