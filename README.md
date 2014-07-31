@@ -12,4 +12,4 @@ howiehu  | Hao Hu | https://github.com/howiehu
 
 Username | Full Name | GitHub Link
 -------- | --------- | --------
-XueQian  | Xue Qian  | https://github.com/XueQian
+XueQian  | Qian Xue  | https://github.com/XueQian
