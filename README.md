@@ -10,7 +10,6 @@ howiehu  | Hao Hu | https://github.com/howiehu
 
 ## 学员信息
 
-<<<<<<< HEAD
 Username | Full Name   | GitHub Link
 -------- | ---------   | -----------
 sighWang | Ximing Wang | https://github.com/sighWang
@@ -19,3 +18,4 @@ lzhangwei | Wei Zhang | https://github.com/lzhangwei
 SnakeWorker | Kai Su | https://github.com/SnakeWorker
 mumuyang1 | Yanzi Li | http://github.com/mumuyang1
 XueQian  | Qian Xue  | https://github.com/XueQian
+adabeauty | Huan Wang | https://github.com/adabeauty
