@@ -11,4 +11,5 @@ howiehu  | Hao Hu | https://github.com/howiehu
 ## 学员信息
 
 Username     | Full Name    | GitHub Link
-xiaoyanzhuzzh| Zhihui Zhang |https://github.com/xiaoyanzhuzzh
+--------     | -----------  | -----------
+xiaoyanzhuzzh|Zhihui Zhang |https://github.com/xiaoyanzhuzzh
