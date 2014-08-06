@@ -22,3 +22,4 @@ adabeauty | Huan Wang | https://github.com/adabeauty
 fgcui1204 | Fugang Cui | https://github.com/fgcui1204
 xiaoyanzhuzzh | Zhihui Zhang | https://github.com/xiaoyanzhuzzh
 Antml | Yun Zhang | https://github.com/Antml
+caft0505 | Ting Fu | https://github.com/caft0505
