@@ -8,7 +8,7 @@
 howiehu  | Hao Hu | https://github.com/howiehu
 ```
 
-## 学员信息
+## 合作培训第一期
 
 Username | Full Name | GitHub Link
 -------- | --------- | -----------
